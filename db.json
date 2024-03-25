@@ -1,0 +1,455 @@
+[
+    {
+        "id": 1,
+        "categoryName": "Panchakarma",
+        "displayIndex": "1",
+        "treatments": [
+            {
+                "id": 1,
+                "name": "Abhyanga",
+                "price": null,
+                "images": [
+                    "Abhyanga1",
+                    "Abhyanga2"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 1,
+                "description": "Abhyanga",
+                "bookingType": "Treatment",
+                "valid": true,
+                "url": "/treatment",
+                "tags": [
+                    {
+                        "id": 1,
+                        "displayName": "Shirodhara",
+                        "url": "/treatment",
+                        "targetId": 2
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "name": "Netra Tarpna",
+                "price": null,
+                "images": [
+                    "NetraTarpana1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 11,
+                "description": "NetraTarpana",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 7,
+                "name": "Kati Basti",
+                "price": null,
+                "images": [
+                    "KatiVasti1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 6,
+                "description": "KatiVasti",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 2,
+                "name": "Shirodhara",
+                "price": null,
+                "images": [
+                    "Shirodhara1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 2,
+                "description": "Shirodhara",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": [
+                    {
+                        "id": 2,
+                        "displayName": "Abhyanga",
+                        "url": "/treatment",
+                        "targetId": 1
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Janu Basti",
+                "price": null,
+                "images": [
+                    "JanuVasti1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 7,
+                "description": "JanuVasti",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 5,
+                "name": "PPS ( Patra Pinda Sweda )",
+                "price": null,
+                "images": [
+                    "PPS1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 4,
+                "description": "PPS",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 9,
+                "name": "Greeva Basti",
+                "price": null,
+                "images": [
+                    "GreevaVasti1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 8,
+                "description": "GreevaVasti",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 11,
+                "name": "Udwarthana",
+                "price": null,
+                "images": [
+                    "Udwarthana1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 10,
+                "description": "Udwarthana",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 6,
+                "name": "CPS ( Churna Pinda Sweda )",
+                "price": null,
+                "images": [
+                    "CPS1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 5,
+                "description": "CPS",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "categoryName": "Alternate Healing Therapies",
+        "displayIndex": "2",
+        "treatments": [
+            {
+                "id": 3,
+                "name": "Marma Chikitsa",
+                "price": null,
+                "images": [
+                    "Marma2",
+                    "Marma1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 1,
+                "description": "Marma",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 12,
+                "name": "CST ( Cranio Sacral Therapy )",
+                "price": null,
+                "images": [
+                    "CST2",
+                    "CST1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 2,
+                "description": "CST",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 15,
+                "name": "Meru Chikitsa",
+                "price": null,
+                "images": [
+                    "Meru1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 4,
+                "description": "Meru",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 20,
+                "name": "Rakkenho",
+                "price": null,
+                "images": [
+                    "Rakkenho"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 8,
+                "description": "Rakkenho",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 14,
+                "name": "Osteopathy",
+                "price": null,
+                "images": [
+                    "Osteopathy1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 3,
+                "description": "Osteopathy",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "categoryName": "Detox & Rejuvenation",
+        "displayIndex": "3",
+        "treatments": [
+            {
+                "id": 4,
+                "name": "Nasya",
+                "price": null,
+                "images": [
+                    "Nasya1"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 3,
+                "description": "Nasya",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 16,
+                "name": "Virechana",
+                "price": null,
+                "images": [
+                    "Virechana"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 4,
+                "description": "Virechana",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 19,
+                "name": "Vasti",
+                "price": null,
+                "images": [
+                    "Vasti"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 7,
+                "description": "Vasti",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 18,
+                "name": "Rakta Mokshana",
+                "price": null,
+                "images": [
+                    "RaktaMokshana"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 6,
+                "description": "RaktaMokshana",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 17,
+                "name": "Vamana",
+                "price": null,
+                "images": [
+                    "Vamana"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 5,
+                "description": "Vamana",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "categoryName": "Beauty Therapies",
+        "displayIndex": "4",
+        "treatments": [
+            {
+                "id": 25,
+                "name": "Shiro Abhyanga",
+                "price": null,
+                "images": [
+                    "HeadMassage"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 5,
+                "description": "ShiroAbhyanga",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 23,
+                "name": "Body Wrap",
+                "price": null,
+                "images": [
+                    "BodyWrap"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 3,
+                "description": "BodyWrap",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 21,
+                "name": "Shiro Lepam",
+                "price": null,
+                "images": [
+                    "ShiroLepam"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 1,
+                "description": "ShiroLepam",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 22,
+                "name": "Mukha Lepam",
+                "price": null,
+                "images": [
+                    "MukhaLepam"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 2,
+                "description": "MukhaLepam",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            },
+            {
+                "id": 24,
+                "name": "Foot Massage",
+                "price": null,
+                "images": [
+                    "FootMassage"
+                ],
+                "enquiryFor": [
+                    ""
+                ],
+                "displayIndex": 4,
+                "description": "FootMassage",
+                "bookingType": "Treatment",
+                "valid": null,
+                "url": "/treatment",
+                "tags": []
+            }
+        ]
+    }
+]
